@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-void solid_rectangle(int row, int column);
-void hollow_rectangle(int row, int column);
+#include "rectangles.h"
 
 int main()
 {

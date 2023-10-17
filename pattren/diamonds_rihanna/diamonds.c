@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-void half_diamond(int row);
-void full_diamond(int row);
-void full_hollow_diamond(int row);
+#include "diamonds.h"
 
 int main()
 {

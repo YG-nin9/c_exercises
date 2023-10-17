@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-void num_Palindrome(int row);
-void full_num_Palindrome(int row);
-void letters_Palindrome(int row);
-void iterate_num_Palindrome(int row);
+#include "palindorms.h"
 
 int main()
 {
